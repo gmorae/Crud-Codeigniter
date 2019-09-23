@@ -8,7 +8,7 @@ PHP, HTML5, CSS3, JS.
 
 Frameworks
 -------------
-Codeigniter e Bootstrap 4.
+(Codeigniter)[https://codeigniter.com/] e (Bootstrap 4)[https://getbootstrap.com.br/].
 
 Banco de dados
 -------------------
